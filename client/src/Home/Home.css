@@ -1,0 +1,6 @@
+.chat-container{
+background-color: #ffbf80;
+padding: 15px;
+max-height: 70vh;
+overflow-y: scroll;
+}
